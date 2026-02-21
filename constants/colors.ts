@@ -1,0 +1,31 @@
+const Colors = {
+  primary: '#00D4AA',
+  primaryDark: '#00B894',
+  accent: '#FF6B6B',
+  accentOrange: '#FF9F43',
+  background: '#0A1628',
+  backgroundLight: '#0F1F38',
+  card: '#162A4A',
+  cardLight: '#1C3358',
+  surface: '#1A2D4D',
+  text: '#FFFFFF',
+  textSecondary: '#8B9DC3',
+  textMuted: '#5A6F94',
+  border: '#243B5E',
+  success: '#00D4AA',
+  warning: '#FFD93D',
+  error: '#FF6B6B',
+  xp: '#FFD93D',
+  gold: '#FFD700',
+  silver: '#C0C0C0',
+  bronze: '#CD7F32',
+  light: {
+    text: '#FFFFFF',
+    background: '#0A1628',
+    tint: '#00D4AA',
+    tabIconDefault: '#5A6F94',
+    tabIconSelected: '#00D4AA',
+  },
+};
+
+export default Colors;
