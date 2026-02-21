@@ -1,0 +1,12 @@
+node_modules/
+.expo/
+dist/
+static-build/
+server_dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+google-services-key.json
